@@ -18,4 +18,4 @@ Neste repositório você vera os principais projetos que desenvolvi no curso de 
 
 ### Aulas de Flutter:
 
-- Link para meu repositório contentedo todos os projetos de Flutter feitos em aula ou em trabalhos -> Clique aqui
+- Link para meu repositório contentedo todos os projetos de Flutter feitos em aula ou em trabalhos -> <a href="https://github.com/MuriloVetrin/flutter-faculdade.git">Clique aqui</a>
