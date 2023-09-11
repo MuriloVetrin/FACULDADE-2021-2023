@@ -16,6 +16,13 @@ Neste repositório você vera os principais projetos que desenvolvi no curso de 
 
 #
 
+### Aulas do <a href="https://github.com/alexmpereira">Alex Morgado</a> :
+
+
+- Repositório com os principais projetos feitos -> <a href="https://github.com/MuriloVetrin/turma12-unialfa.git
+">Repositório</a>
+#
+
 ### Aulas de Flutter:
 
 - Link para meu repositório contentedo todos os projetos de Flutter feitos em aula ou em trabalhos -> <a href="https://github.com/MuriloVetrin/flutter-faculdade.git">Clique aqui</a>
