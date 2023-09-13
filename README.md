@@ -23,7 +23,7 @@ Neste repositório você vera os principais projetos que desenvolvi no curso de 
 ">Repositório</a>
 #
 
-### Aulas de Flutter:
+### Aulas de Flutter com o professor <a href="https://github.com/marcosdv">Marcos Vendramini</a>:
 
 - Link para meu repositório contentedo todos os projetos de Flutter feitos em aula ou em trabalhos -> <a href="https://github.com/MuriloVetrin/flutter-faculdade.git">Clique aqui</a>
 
